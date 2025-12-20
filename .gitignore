@@ -1,0 +1,11 @@
+# Executables
+*.exe
+*.out
+*.o
+*.obj
+school_manager
+
+# Temporary/System Files
+Thumbs.db
+.DS_Store
+temp
